@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Escseq {
     public static void main(String[] args) {
-        boolean withTab = true;
+        boolean withTab = false;
 
         for (int i = 1; i <= 5; i++) {
             int multiple = 7 * i;
