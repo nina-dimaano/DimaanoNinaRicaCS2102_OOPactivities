@@ -24,7 +24,7 @@ public class Painter extends Artist {
 
     @Override
     public void displayInfo() {
-        System.out.println("== Painter Info ==");
+        System.out.println("Painter's Info:");
         super.displayInfo();
         System.out.println("Medium: " + medium);
     }
