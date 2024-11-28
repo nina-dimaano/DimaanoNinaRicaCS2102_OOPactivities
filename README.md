@@ -31,10 +31,10 @@ Feel free to explore and learn along with me! 🚀
   
 ### [X] Laboratory Activity 4 – 28-11-2024
 📁 ***Shapes***
-        📐 Main.java
-        🟦 Shape.java
-        🟨 Rectangle.java
-        🟥 Square.java
-        🔺 Triangle.java
-        📊 ShapeCollection.java
-        🖼️ Lab4-output (image file)
+        📐 Main.java  
+        🟦 Shape.java  
+        🟨 Rectangle.java  
+        🟥 Square.java  
+        🔺 Triangle.java  
+        📊 ShapeCollection.java  
+        🖼️ Lab4-output (image file)  
