@@ -1,8 +1,10 @@
 # CS 211: Object-Oriented Programming Laboratory Activities
-    Hi everyone! 👋 I'm Nina Rica A. Dimaano, a proud 2nd-year Computer Science student at Batangas State University.
-    This repository is a compilation of my activities for our Object-Oriented Programming (OOP) class, where we dive into the exciting world of Java programming. 💻✨
-    Feel free to explore and learn along with me! 🚀
+Hi everyone! 👋 I'm Nina Rica A. Dimaano, a proud 2nd-year Computer Science student at Batangas State University. 🎓
 
+This repository is a compilation of my activities for our Object-Oriented Programming (OOP) class, where we dive into the exciting world of Java programming. 💻✨
+
+Feel free to explore and learn along with me! 🚀  
+  
 ## Laboratory Activities Checklist      
 ### ☑️Laboratory Activity 1 – 06-09-2024    
 - 🖥️ GettingInputs.java  
