@@ -5,36 +5,36 @@ This repository is a compilation of my activities for our Object-Oriented Progra
 
 Feel free to explore and learn along with me! 🚀
 
-## Laboratory Activities Checklist
-### - Laboratory Activity 1 – {dd}-{month}-{year} ☑️
-🖥️ GettingInputs.java
-🖼️ GettingInputs_output (image file)
-🖥️ GettingGreater.java
-🖼️ GettingGreater_output (image file)
-
-### - Laboratory Activity 2 – {dd}-{month}-{year} ☑️
-🖥️ GetArrayMean.java
-🖼️ GetArrayMean_output (image file)
-🖥️ MultiplicationTable.java
-🖼️ MultiplicationTable_output (image file)
-
-### - Laboratory Activity 3 – {dd}-{month}-{year} ☑️
-📁 ***Artists***
-    🎨 Artist.java
-    🚀 ArtistDemo.java 
-    🎤 Singer.java
-    💃 Dancer.java
-    🖌️ Painter.java
-    ✍️ Writer.java
-📁 ***Output Screenshots***
-    📸 Output screenshots for each derived class.
-    
-### - Laboratory Activity 4 – {dd}-{month}-{year} ☑️
+## Laboratory Activities Checklist    
+### [X] Laboratory Activity 1 – 06-09-2024  
+    🖥️ GettingInputs.java  
+    🖼️ GettingInputs_output (image file)  
+    🖥️ GettingGreater.java  
+    🖼️ GettingGreater_output (image file)  
+  
+### [X] Laboratory Activity 2 – 04-10-2024  
+    🖥️ GetArrayMean.java  
+    🖼️ GetArrayMean_output (image file)  
+    🖥️ MultiplicationTable.java  
+    🖼️ MultiplicationTable_output (image file)  
+  
+### [X] Laboratory Activity 3 – 22-11-2024   
+📁 ***Artists***  
+        🎨 Artist.java  
+        🚀 ArtistDemo.java   
+        🎤 Singer.java  
+        💃 Dancer.java  
+        🖌️ Painter.java  
+        ✍️ Writer.java  
+📁 ***Output Screenshots***  
+    📸 Output screenshots for each derived class.  
+  
+### [X] Laboratory Activity 4 – 28-11-2024
 📁 ***Shapes***
-    📐 Main.java
-    🟦 Shape.java
-    🟨 Rectangle.java
-    🟥 Square.java
-    🔺 Triangle.java
-    📊 ShapeCollection.java
-    🖼️ Lab4-output (image file)
+        📐 Main.java
+        🟦 Shape.java
+        🟨 Rectangle.java
+        🟥 Square.java
+        🔺 Triangle.java
+        📊 ShapeCollection.java
+        🖼️ Lab4-output (image file)
