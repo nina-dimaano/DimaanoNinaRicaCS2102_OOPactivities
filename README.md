@@ -5,20 +5,20 @@ This repository is a compilation of my activities for our Object-Oriented Progra
 
 Feel free to explore and learn along with me! 🚀
 
-## Laboratory Activities Checklist    
-### - [X] Laboratory Activity 1 – 06-09-2024  
+## Laboratory Activities Checklist      
+### - [x] Laboratory Activity 1 – 06-09-2024    
     - 🖥️ GettingInputs.java  
-    - 🖼️ GettingInputs_output (image file)  
-    - 🖥️ GettingGreater.java  
-    - 🖼️ GettingGreater_output (image file)  
+    - 🖼️ GettingInputs_output (image file)    
+    - 🖥️ GettingGreater.java    
+    - 🖼️ GettingGreater_output (image file)    
   
-### - [X] Laboratory Activity 2 – 04-10-2024  
-    - 🖥️ GetArrayMean.java  
+### - [x] Laboratory Activity 2 – 04-10-2024   
+    - 🖥️ GetArrayMean.java   
     - 🖼️ GetArrayMean_output (image file)  
     - 🖥️ MultiplicationTable.java  
-    - 🖼️ MultiplicationTable_output (image file)  
+    - 🖼️ MultiplicationTable_output (image file)   
   
-### - [X] Laboratory Activity 3 – 22-11-2024   
+### - [x] Laboratory Activity 3 – 22-11-2024   
 - 📁 ***Artists***  
     - 🎨 Artist.java  
     - 🚀 ArtistDemo.java
@@ -29,7 +29,7 @@ Feel free to explore and learn along with me! 🚀
 - 📁 ***Output Screenshots***  
     - 📸 Output screenshots for each derived class.  
   
-### - [X] Laboratory Activity 4 – 28-11-2024
+### - [x] Laboratory Activity 4 – 28-11-2024
 - 📁 ***Shapes***
     - 📐 Main.java  
     - 🟦 Shape.java  
